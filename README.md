@@ -1,7 +1,7 @@
-# teste
+# as
 
 Este site foi gerado automaticamente pela plataforma WhitePages.
-Domínio: teste.com
+Domínio: a
 
 ## Estrutura do projeto
 - index.html: Página principal do site
@@ -13,9 +13,9 @@ Domínio: teste.com
 3. Para GitHub Pages, siga as instruções no dashboard
 
 ## Informações técnicas
-- Template usado: Discord
+- Template usado: Bolo
 - HTML transformado com IA (cores, fontes e textos em inglês)
 - Links do footer redirecionam para os arquivos incluídos
 
-Gerado em: 22/08/2025 às 02:36:13
+Gerado em: 22/08/2025 às 02:55:21
 Powered by WhitePages AI
